@@ -20,8 +20,11 @@
 
 /* USB Device descriptor parameter */
 #define VENDOR_ID       0x434D
-#define PRODUCT_ID      0x534B
-#define DEVICE_VER      0x0001
+// #define PRODUCT_ID      0x534B
+// #define DEVICE_VER      0x0001
+// https://gist.github.com/fauxpark/010dcf5d6377c3a71ac98ce37414c6c4
+#define VENDOR_ID 		0x05ac
+#define PRODUCT_ID 		0x021D
 #define MANUFACTURER    CMM.Studio
 #define PRODUCT         Saka68
 
