@@ -8,6 +8,13 @@
 
 This is a keyboard firmware based on the [tmk\_keyboard firmware](https://github.com/tmk/tmk_keyboard) with some useful features for Atmel AVR and ARM controllers, and more specifically, the [OLKB product line](https://olkb.com), the [ErgoDox EZ](https://ergodox-ez.com) keyboard, and the [Clueboard product line](https://clueboard.co).
 
+
+## Apple FN-Key Resources
+* https://github.com/qmk/qmk_firmware/issues/2179
+* https://github.com/dkjer/qmk_firmware/commit/c18f9f951fa879b03b3277812921a25292d9988b
+* https://gist.github.com/fauxpark/010dcf5d6377c3a71ac98ce37414c6c4
+* Commit #e478d708
+
 ## Documentation
 
 * [See the official documentation on docs.qmk.fm](https://docs.qmk.fm)
